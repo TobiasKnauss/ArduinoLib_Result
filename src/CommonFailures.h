@@ -6,6 +6,7 @@ X(FAIL_Buffer_Overlap                   )
 X(FAIL_Buffer_TooSmall                  )
 
 X(FAIL_Device_ConfigInvalid             )
+X(FAIL_Device_ConfigChecksumWrong       )
 X(FAIL_Device_Exists                    )
 X(FAIL_Device_IdInvalid                 )
 X(FAIL_Device_TypeInvalid               )

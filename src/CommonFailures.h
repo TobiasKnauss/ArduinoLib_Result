@@ -5,6 +5,7 @@ X(FAIL_Buffer_IndexOutsideRange         )
 X(FAIL_Buffer_MessageNotFound           )
 X(FAIL_Buffer_Overlap                   )
 X(FAIL_Buffer_SetBytes                  )
+X(FAIL_Buffer_SetPointer                )
 X(FAIL_Buffer_SetValue                  )
 X(FAIL_Buffer_TooSmall                  )
 
